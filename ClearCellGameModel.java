@@ -6,7 +6,6 @@ import java.util.Random;
  * This class extends GameModel and implements the logic of the clear cell game,
  * specifically.
  * 
- * @author Dept of Computer Science, UMCP
  */
 
 public class ClearCellGameModel extends GameModel {
